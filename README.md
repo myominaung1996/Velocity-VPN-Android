@@ -1,6 +1,6 @@
 # Velocity VPN - Secure & High-Performance V2Ray Tunnel
 Velocity VPN is a professional-grade tunneling tool for Android, built with Kotlin and Jetpack Compose. It is designed to protect your digital privacy and provide a secure internet connection using industry-standard V2Ray protocols.
-<img width="686" height="848" alt="1" src="https://github.com/user-attachments/assets/92bc74a2-8db6-4997-8467-e4aedca59a6f" />
+<img width="486" height="648" alt="1" src="https://github.com/user-attachments/assets/92bc74a2-8db6-4997-8467-e4aedca59a6f" />
 
 
 ## 🌟 Key Features
@@ -26,8 +26,12 @@ You can download the latest version from the **[Releases](https://github.com/myo
 ---
 
 ## 🇲🇲 မြန်မာဘာသာဖြင့် အနှစ်ချုပ်
+* **Install ပြုလုပ်နည်း**
+*၁။ဒေါင်းလုဒ်ပြီးသွားလျှင် ဖိုင်ကို နှိပ်ပါ။ 
+*၂။ အကယ်၍ Settings ထဲတွင် Unknown Sources ကို ခွင့်ပြုရန် ပေါ်လာပါက Allow လုပ်ပေးပါ။ 
+*၃။ထိုနောက် Install ကို နှိပ်ပြီး App ကို စတင်အသုံးပြုနိုင်ပါသည်။
 
-Velocity VPN သည် သင်၏ အင်တာနက်အသုံးပြုမှုများကို လုံခြုံစိတ်ချရစေရန်နှင့် Privacy ကို အပြည့်အဝကာကွယ်ပေးရန် ဒီဇိုင်းထုတ်ထားသော application ဖြစ်ပါသည်။ V2Ray Kernel ကို အသုံးပြုထားသဖြင့် မြန်ဆန်ပြီး ပိတ်ဆို့ထားသော network များကို အလွယ်တကူ ကျော်ဖြတ်နိုင်ပါသည်။ ကျွန်ုပ်တို့သည် အသုံးပြုသူများ၏ မည်သည့်အချက်အလက်ကိုမျှ သိမ်းဆည်းခြင်းမပြုသည့် No-Logs policy ကို တိကျစွာ လိုက်နာပါသည်။
+Velocity VPN သည် သင်၏ အင်တာနက်အသုံးပြုမှုများကို လုံခြုံစိတ်ချရစေရန်နှင့် Privacy ကို အပြည့်အဝကာကွယ်ပေးရန် ဒီဇိုင်းထုတ်ထားသော application ဖြစ်ပါသည်။ V2Ray Kernel ကို အသုံးပြုထားသဖြင့် မြန်ဆန်ပြီး ပိတ်ဆို့ထားသော network များကို အလွယ်တကူ ကျော်ဖြတ်နိုင်ပါသည်။
 
 ---
 
