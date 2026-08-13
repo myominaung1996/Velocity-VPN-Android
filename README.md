@@ -42,5 +42,5 @@ This app is provided for educational and security purposes. Please use it respon
 ## 📞 Support
 
 * **Developer:** Mr.YT
-* **Telegram:** [Join our Channel](t.me/myominaung1996)
+* **Telegram:** [Join our Channel](https://t.me/velocityvpn96)
 * **Email:** myominaung.3.10.1996@gmail.com
