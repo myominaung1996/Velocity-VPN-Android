@@ -22,7 +22,6 @@ You can download the latest version from the **[Releases](https://github.com/myo
 * **Universal APK:** Works on all Android devices (Largest size).
 * **arm64-v8a:** Best for modern Android smartphones (Recommended).
 * **armeabi-v7a:** For older Android devices.
-* **x86 / x86_64:** For Android Emulators.
 
 ---
 
