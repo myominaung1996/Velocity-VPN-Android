@@ -21,16 +21,14 @@ You can download the latest version from the **[Releases](https://github.com/myo
 **How to choose the right APK:**
 * **Universal APK:** Works on all Android devices (Largest size).
 * **arm64-v8a:** Best for modern Android smartphones (Recommended).
-* **armeabi-v7a:** For older Android devices.
-
----
+* **armeabi-v7a:** For older Android devices
+* 
+* **Install ပြုလုပ်နည်း**.
+* ၁။ဒေါင်းလုဒ်ပြီးသွားလျှင် ဖိုင်ကို နှိပ်ပါ။
+* ၂။ အကယ်၍ Settings ထဲတွင် Unknown Sources ကို ခွင့်ပြုရန် ပေါ်လာပါက Allow လုပ်ပေးပါ။
+* ၃။ထိုနောက် Install ကို နှိပ်ပြီး App ကို စတင်အသုံးပြုနိုင်ပါသည်။
 
 ## 🇲🇲 မြန်မာဘာသာဖြင့် အနှစ်ချုပ်
-* **Install ပြုလုပ်နည်း**.
-*၁။ဒေါင်းလုဒ်ပြီးသွားလျှင် ဖိုင်ကို နှိပ်ပါ။.
-*၂။ အကယ်၍ Settings ထဲတွင် Unknown Sources ကို ခွင့်ပြုရန် ပေါ်လာပါက Allow လုပ်ပေးပါ။.
-*၃။ထိုနောက် Install ကို နှိပ်ပြီး App ကို စတင်အသုံးပြုနိုင်ပါသည်။.
-
 Velocity VPN သည် သင်၏ အင်တာနက်အသုံးပြုမှုများကို လုံခြုံစိတ်ချရစေရန်နှင့် Privacy ကို အပြည့်အဝကာကွယ်ပေးရန် ဒီဇိုင်းထုတ်ထားသော application ဖြစ်ပါသည်။ V2Ray Kernel ကို အသုံးပြုထားသဖြင့် မြန်ဆန်ပြီး ပိတ်ဆို့ထားသော network များကို အလွယ်တကူ ကျော်ဖြတ်နိုင်ပါသည်။
 
 ---
