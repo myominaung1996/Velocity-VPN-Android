@@ -33,7 +33,7 @@ Velocity VPN သည် သင်၏ အင်တာနက်အသုံးပ�
 
 ## 🔒 Privacy Policy
 
-Your privacy is our priority. Read our full Privacy Policy here: [Privacy Policy Link](#)
+Your privacy is our priority. Read our full Privacy Policy here: [Privacy Policy Link](https://myominaung1996.github.io/velocity-vpn-privacy/)
 
 ## ⚠️ Disclaimer
 
@@ -42,5 +42,5 @@ This app is provided for educational and security purposes. Please use it respon
 ## 📞 Support
 
 * **Developer:** Mr.YT
-* **Telegram:** [Join our Channel](#)
-* **Email:** support@your-email.com
+* **Telegram:** [Join our Channel](t.me/myominaung1996)
+* **Email:** myominaung.3.10.1996@gmail.com
