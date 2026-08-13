@@ -1,5 +1,5 @@
 # Velocity VPN - Secure & High-Performance V2Ray Tunnel
-<img width="886" height="1048" alt="1" src="https://github.com/user-attachments/assets/92bc74a2-8db6-4997-8467-e4aedca59a6f" />
+<img width="686" height="848" alt="1" src="https://github.com/user-attachments/assets/92bc74a2-8db6-4997-8467-e4aedca59a6f" />
 Velocity VPN is a professional-grade tunneling tool for Android, built with Kotlin and Jetpack Compose. It is designed to protect your digital privacy and provide a secure internet connection using industry-standard V2Ray protocols.
 
 ## 🌟 Key Features
